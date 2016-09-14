@@ -1,0 +1,4 @@
+2016-08-19 22:28:23,730 [main] INFO  pogaðanje.brojeva.iznimke.Glavna - Korisnik je pokrenio aplikaciju!
+2016-08-19 22:28:23,818 [main] INFO  pogaðanje.brojeva.iznimke.Glavna - Generiran je broj: 11
+2016-08-19 22:28:25,250 [main] INFO  pogaðanje.brojeva.iznimke.Glavna - Uneseni broj je: 5
+2016-08-19 22:28:25,251 [main] ERROR  pogaðanje.brojeva.iznimke.Glavna - Unijeli ste premali broj
