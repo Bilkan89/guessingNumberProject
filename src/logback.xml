@@ -4,11 +4,11 @@
   <appender name="SIFT" class="ch.qos.logback.classic.sift.SiftingAppender">
     <discriminator>
       <Key>screen</Key>
-      <DefaultValue>Moj2</DefaultValue>
+      <DefaultValue>myAppLog</DefaultValue>
     </discriminator>
     <sift>
       <appender name="FILE-${screen}" class="ch.qos.logback.core.FileAppender">
-        <File>./Resursi/LogZapisi/${screen}.log</File>
+        <File>./Resource/logsApp/${screen}.log</File>
         <Append>false</Append>
         <layout class="ch.qos.logback.classic.PatternLayout">
           <Pattern>%d [%thread] %level %mdc %logger{35} - %msg%n</Pattern>

@@ -1,8 +1,0 @@
-2016-08-19 22:28:26,984 [main] INFO screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Uneseni broj je: 15
-2016-08-19 22:28:26,987 [main] ERROR screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Unijeli ste preveliki broj
-2016-08-19 22:28:32,657 [main] INFO screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Uneseni broj je: 9
-2016-08-19 22:28:32,657 [main] ERROR screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Unijeli ste premali broj
-2016-08-19 22:28:37,790 [main] INFO screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Uneseni broj je: 12
-2016-08-19 22:28:37,791 [main] ERROR screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Unijeli ste preveliki broj
-2016-08-19 22:28:39,111 [main] INFO screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Uneseni broj je: 11
-2016-08-19 22:28:39,111 [main] INFO screen=Pogaðanje pogaðanje.brojeva.iznimke.Glavna - Broj je pogoðen iz 5 pokušaja

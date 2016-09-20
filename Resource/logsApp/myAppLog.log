@@ -1,0 +1,4 @@
+2016-09-20 17:39:28,564 [main] INFO  gussing.number.main.ClassMain - User started app..
+2016-09-20 17:39:28,671 [main] INFO  gussing.number.main.ClassMain - Generated number is: 20
+2016-09-20 17:39:31,300 [main] INFO  gussing.number.main.ClassMain - Input number is: 1
+2016-09-20 17:39:31,300 [main] ERROR  gussing.number.main.ClassMain - You insert small number!! Try again!
